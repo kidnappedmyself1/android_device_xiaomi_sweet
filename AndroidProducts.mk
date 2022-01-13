@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/plus_sweet.mk
+    $(LOCAL_DIR)/fuse_sweet.mk
 
 COMMON_LUNCH_CHOICES := \
-    plus_sweet-user \
-    plus_sweet-userdebug \
-    plus_sweet-eng
+    fuse_sweet-user \
+    fuse_sweet-userdebug \
+    fuse_sweet-eng
